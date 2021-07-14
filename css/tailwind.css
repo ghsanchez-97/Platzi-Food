@@ -17,3 +17,6 @@
 .btn:hover {
     @apply bg-white text-secondary
 }
+.Navbar{
+  @apply bg-secondary text-gray-100
+}
